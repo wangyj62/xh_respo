@@ -1,9 +1,6 @@
 aaaaaa
 bbbccccbbb
 ddddd
-<<<<<<< HEAD
 eeee on master ok??
-=======
 eeee on dev ok?
->>>>>>> dev
 Creating a new branch is quick. and simple
